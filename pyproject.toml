@@ -78,11 +78,11 @@ all = [
 reasona = "reasona.cli.main:app"
 
 [project.urls]
-Homepage = "https://github.com/reasona-ai/reasona"
+Homepage = "https://github.com/reasona/reasona"
 Documentation = "https://docs.reasona.dev"
-Repository = "https://github.com/reasona-ai/reasona"
-Issues = "https://github.com/reasona-ai/reasona/issues"
-Changelog = "https://github.com/reasona-ai/reasona/blob/main/CHANGELOG.md"
+Repository = "https://github.com/reasona/reasona"
+Issues = "https://github.com/reasona/reasona/issues"
+Changelog = "https://github.com/reasona/reasona/blob/main/CHANGELOG.md"
 
 [tool.setuptools.packages.find]
 where = ["src"]

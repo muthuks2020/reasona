@@ -126,7 +126,7 @@ if __name__ == "__main__":
     
     # Create config file
     config_content = '''# Reasona Configuration
-# See https://github.com/reasona-ai/reasona for documentation
+# See https://github.com/reasona/reasona for documentation
 
 [reasona]
 default_model = "openai/gpt-4o"
@@ -212,7 +212,7 @@ A Reasona-powered AI agent.
 
 ## Documentation
 
-See the [Reasona documentation](https://github.com/reasona-ai/reasona) for more information.
+See the [Reasona documentation](https://github.com/reasona/reasona) for more information.
 '''
     (project_dir / "README.md").write_text(readme_content)
     

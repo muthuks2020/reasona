@@ -13,7 +13,7 @@ pip install reasona
 ### From source
 
 ```bash
-git clone https://github.com/reasona-ai/reasona.git
+git clone https://github.com/reasona/reasona.git
 cd reasona
 pip install -e ".[dev]"
 ```

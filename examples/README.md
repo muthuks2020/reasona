@@ -145,5 +145,5 @@ done
 ## Getting Help
 
 - [Documentation](https://reasona.dev/docs)
-- [GitHub Issues](https://github.com/reasona-ai/reasona/issues)
+- [GitHub Issues](https://github.com/reasona/reasona/issues)
 - [API Reference](https://reasona.dev/api)
