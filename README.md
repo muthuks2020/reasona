@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://pypi.org/project/reasona/"><img src="https://img.shields.io/pypi/v/reasona.svg?color=brightgreen&label=PyPI&style=flat" alt="PyPI version"></a>
-  <a href="https://github.com/reasona-ai/reasona/actions"><img src="https://github.com/reasona-ai/reasona/actions/workflows/test.yml/badge.svg" alt="Tests"></a>
+  <a href="https://github.com/reasona/reasona/actions"><img src="https://github.com/reasona/reasona/actions/workflows/test.yml/badge.svg" alt="Tests"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat" alt="License: MIT"></a>
   <a href="https://python.org"><img src="https://img.shields.io/badge/python-3.10+-blue.svg?style=flat" alt="Python 3.10+"></a>
 </p>
@@ -19,7 +19,7 @@
   <a href="https://docs.reasona.dev">Documentation</a> •
   <a href="#quick-start">Quick Start</a> •
   <a href="#features">Features</a> •
-  <a href="https://github.com/reasona-ai/reasona/tree/main/examples">Examples</a>
+  <a href="https://github.com/reasona/reasona/tree/main/examples">Examples</a>
 </p>
 
 ---
@@ -332,7 +332,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ```bash
 # Clone the repository
-git clone https://github.com/reasona-ai/reasona.git
+git clone https://github.com/reasona/reasona.git
 cd reasona
 
 # Install development dependencies
@@ -361,9 +361,9 @@ Reasona builds on the shoulders of giants. Special thanks to:
 ---
 
 <p align="center">
-  Made with ❤️ by the Reasona community
+  Made with ❤️ by the muthuks
 </p>
 
 <p align="center">
-  <a href="https://github.com/reasona-ai/reasona/stargazers">⭐ Star us on GitHub</a>
+  <a href="https://github.com/reasona/reasona/stargazers">⭐ Star us on GitHub</a>
 </p>
